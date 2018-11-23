@@ -2,7 +2,7 @@ Compilation:
 
 GCC
 
-gcc main.cpp -o nuss -lgomp -fopenmp -O3
+gcc main.cpp -o nuss -lgomp -fopenmp -O3 -lm
 
 ICC
 
