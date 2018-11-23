@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1541007982 source:/home/marek/tracobench/rna/nuss/main.cpp
+	<stdio.h>
+	<omp.h>
+	<math.h>
+	<time.h>
+	<cstring>
+	<string>
+	"library.h"
+	"oryg.h"
+	"tstile.h"
+	"tilecorr.h"
+	"pluto.h"
+	"li.h"
+	"traceback.h"
+
+1541008002 /home/marek/tracobench/rna/nuss/library.h
+	<string>
+
+1541002096 /home/marek/tracobench/rna/nuss/oryg.h
+
+1541006354 /home/marek/tracobench/rna/nuss/tstile.h
+
+1541002945 /home/marek/tracobench/rna/nuss/tilecorr.h
+
+1541001540 /home/marek/tracobench/rna/nuss/pluto.h
+
+1541002912 /home/marek/tracobench/rna/nuss/li.h
+
+1541005794 /home/marek/tracobench/rna/nuss/traceback.h
+
